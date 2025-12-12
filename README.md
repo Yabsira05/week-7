@@ -38,3 +38,8 @@ I fixed it by changing that line so that when n3 is the largest, the program pri
 cout << "Largest number: " << n3 << endl;
 
 This shows that the debugged program now correctly identifies the highest of the three inputs.
+
+Part-2
+If/Else statements
+This program creates a simple menu in C++. When the program runs, it displays three options to the user: add an item, view items, or exit the program. The user selects an option by entering a number. The program then uses if, else if, and else statements to check the user’s choice and display the correct message. If the input does not match any of the menu options, the program lets the user know that the choice is invalid. This assignment helped me practice using if statements, taking user input, and applying basic logic to control how a program runs.
+
